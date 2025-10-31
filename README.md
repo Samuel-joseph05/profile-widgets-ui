@@ -51,6 +51,7 @@ A responsive React implementation of a Figma design assignment featuring interac
 npm install
 # or
 yarn install
+```
 ### Start development server
  ```bash
 npm run dev
