@@ -62,8 +62,9 @@ yarn dev
 Then open your browser at http://localhost:5713   
 
 ### Deployment
-    The app is deployed using Vercel.
-    To redeploy your own version:
+   * The app is deployed using Vercel.
+   * To redeploy your own version:
+
  ```bash
     npm run build
     vercel deploy
