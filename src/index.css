@@ -11,6 +11,6 @@ body {
 }
 
 .bg-slide-hover:hover {
-  background-size: 120% 120%;
-  padding: 10px 10px 10px 10px;
+  background-size: 100% 100%;
+
 }
